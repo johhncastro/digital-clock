@@ -6,15 +6,7 @@ const ampmOutPut = document.querySelector(".ampm");
 const monthOutPut = document.querySelector(".month");
 const dayOfWeekOutPut = document.querySelector(".dayofweek");
 const dayOutPut = document.querySelector(".day");
-const weekday = [
-    "Sunday",
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday",
-];
+const weekday = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday",];
 
 const monthName = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
